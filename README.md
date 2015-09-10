@@ -1,3 +1,2 @@
 # site
-site tamplate
-Форма с прижатым footer-ом
+site tamplate с прижатым footer-ом
